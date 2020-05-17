@@ -5,4 +5,5 @@ def hanoi(n, A, B, C):
         hanoi(n-1, B, A, C)
 m = int(input())
 hanoi(m, 'A', 'B', 'C')
-#小袁添加注释
+
+print("just modify the code")
