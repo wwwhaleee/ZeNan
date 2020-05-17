@@ -6,3 +6,4 @@ def hanoi(n, A, B, C):
 m = int(input())
 hanoi(m, 'A', 'B', 'C')
 #小袁添加注释
+print("just kidding")
