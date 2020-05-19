@@ -7,3 +7,11 @@ m = int(input())
 hanoi(m, 'A', 'B', 'C')
 
 print("just modify the code")
+
+print("just modify the code")
+
+print("just modify the code")
+
+print("just modify the code")
+
+print("just modify the code")
